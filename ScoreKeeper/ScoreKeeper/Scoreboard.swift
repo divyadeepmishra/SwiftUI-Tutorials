@@ -10,9 +10,9 @@ import Foundation
 
 struct Scoreboard {
     var players: [Player] = [
-        Player(name: "Anjum", score: 0),
-        Player(name: "Hira", score: 0),
-        Player(name: "Leela", score: 0),
+        Player(name: "Divy", score: 0),
+        Player(name: "Hamza", score: 0),
+        Player(name: "Stranger", score: 0),
     ]
 
 
