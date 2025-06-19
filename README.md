@@ -21,7 +21,7 @@ Here, each project is a stepping stone in my journey to master SwiftUI.
 ## 🌟 About
 
 This is my personal playground for learning Swift and SwiftUI — one project at a time.
-Each folder here holds a mini project I built while following along with Apple’s official SwiftUI tutorials.
+Each folder here holds a mini project I built while following along with official SwiftUI tutorials.
 
 I'm using this space to explore the fundamentals of iOS development. 
 This repo isn’t just about code — it’s a snapshot of my learning journey as I grow from the basics to something bigger. More projects (and progress) coming soon!
