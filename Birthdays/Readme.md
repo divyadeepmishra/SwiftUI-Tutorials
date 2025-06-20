@@ -19,6 +19,8 @@ A SwiftUI application built following Apple's official "Save Data" tutorial from
 
 ---
 
+<center>
+ 
 ## About 🏆
 
 This project is part of my **SwiftUI-Tutorials** repository and is named **Birthdays**. It demonstrates how to build a real-world iOS app with SwiftUI and SwiftData, focusing on tracking and managing friends' birthdays. The app showcases modern development practices, robust data modeling, and a polished user experience.
@@ -214,3 +216,5 @@ This project is for educational purposes, built following Apple's official tutor
 
 **Happy coding!** 🚀  
 *Built with ❤️ following Apple's Develop in Swift curriculum*
+
+</center>
