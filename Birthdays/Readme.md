@@ -222,6 +222,9 @@ This project is for educational purposes, built following Apple's official tutor
 ---
 
 **Happy coding!** 🚀  
-*Built with ❤️ following Apple's Develop in Swift curriculum*
+
+---
+*Built by following Apple's Develop in Swift curriculum*
+
 
 </center>
