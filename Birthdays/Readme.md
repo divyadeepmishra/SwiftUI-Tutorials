@@ -69,7 +69,9 @@ This project is part of my **SwiftUI-Tutorials** repository and is named **Birth
 git clone https://github.com/your-username/SwiftUI-Tutorials.git
 cd SwiftUI-Tutorials/Birthdays
 ```
-3. **Open in Xcode:**
+2. **Open in Xcode:**
+
+   
 4. **Build and Run:**
  ```
 - Select your target device or simulator
