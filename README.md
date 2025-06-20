@@ -28,15 +28,6 @@ This repo isn’t just about code — it’s a snapshot of my learning journey a
 
 ---
 
-## 🏗️ Projects
-
-| Project      | Description                                            |
-|--------------|-------------------------------------------------------|
-| ScoreKeeper  | Track player scores with SwiftUI data modeling.        |
-| *More coming soon!* | *Stay tuned for new projects and experiments.* |
-
----
-
 ## 🛠️ Getting Started
 
 To explore any project:
