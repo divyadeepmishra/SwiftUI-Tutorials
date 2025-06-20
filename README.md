@@ -10,7 +10,6 @@ Here, each project is a stepping stone in my journey to master SwiftUI.
 ## 📋 Table of Contents
 
 - [About](#about)
-- [Projects](#projects)
 - [Getting Started](#getting-started)
 - [Learning Resources](#learning-resources)
 - [Contact](#contact)
