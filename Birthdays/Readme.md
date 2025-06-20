@@ -130,12 +130,15 @@ SwiftUI-Tutorials/
 
 ## Screenshots 📷
 
-![Birthday App Screenshot](https://github.com/divyadeepmishra/SwiftUI-Tutorials/blob/main/Birthdays/Images/Screenshot%202025-06-20%20at%2021.55.45.png)
-![Birthday App Screenshot](https://github.com/divyadeepmishra/SwiftUI-Tutorials/blob/main/Birthdays/Images/Screenshot%202025-06-20%20at%2021.55.54.png)
-![Birthday App Screenshot](https://github.com/divyadeepmishra/SwiftUI-Tutorials/blob/main/Birthdays/Images/Screenshot%202025-06-20%20at%2021.56.05.png)
-![Birthday App Screenshot](https://github.com/divyadeepmishra/SwiftUI-Tutorials/blob/main/Birthdays/Images/Screenshot%202025-06-20%20at%2021.57.33.png)
-![Birthday App Screenshot](https://github.com/divyadeepmishra/SwiftUI-Tutorials/blob/main/Birthdays/Images/Screenshot%202025-06-20%20at%2021.57.52.png)
+<p align = "center">
+ 
+<img src="https://raw.githubusercontent.com/divyadeepmishra/SwiftUI-Tutorials/main/Birthdays/Images/Screenshot%202025-06-20%20at%2021.55.45.png" alt="Birthday App Screenshot" width="500" height="600" />
+<img src="https://raw.githubusercontent.com/divyadeepmishra/SwiftUI-Tutorials/main/Birthdays/Images/Screenshot%202025-06-20%20at%2021.55.54.png" alt="Birthday App Screenshot" width="450" height="600" />
+<img src="https://raw.githubusercontent.com/divyadeepmishra/SwiftUI-Tutorials/main/Birthdays/Images/Screenshot%202025-06-20%20at%2021.56.05.png" alt="Birthday App Screenshot" width="450" height="600" />
+<img src="https://raw.githubusercontent.com/divyadeepmishra/SwiftUI-Tutorials/main/Birthdays/Images/Screenshot%202025-06-20%20at%2021.57.33.png" alt="Birthday App Screenshot" width="450" height="600" />
+<img src="https://raw.githubusercontent.com/divyadeepmishra/SwiftUI-Tutorials/main/Birthdays/Images/Screenshot%202025-06-20%20at%2021.57.52.png" alt="Birthday App Screenshot" width="450" height="600" />
 
+</p>
 ---
 
 ## Learning Resources 📖
