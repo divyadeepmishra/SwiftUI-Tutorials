@@ -69,14 +69,12 @@ This project is part of my **SwiftUI-Tutorials** repository and is named **Birth
 git clone https://github.com/your-username/SwiftUI-Tutorials.git
 cd SwiftUI-Tutorials/Birthdays
 ```
-
 3. **Open in Xcode:**
-
-
 4. **Build and Run:**
+ ```
 - Select your target device or simulator
 - Press `Product -> Run` to build and run the app
-
+```
 ---
 
 ## Learning Objectives 📚
@@ -200,9 +198,9 @@ After completing this tutorial, consider exploring:
 
 Feel free to reach out if you have questions about this implementation or want to discuss iOS development:
 
-- **GitHub:** [https://github.com/divyadeepmishra]
-- **Email:** [divydeepmishra@gmail.com]
-- **LinkedIn:** [https://www.linkedin.com/in/divyadeepmishra/]
+- **GitHub:** https://github.com/divyadeepmishra
+- **Email:** divydeepmishra@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/divyadeepmishra/
 
 ---
 
