@@ -130,7 +130,11 @@ SwiftUI-Tutorials/
 
 ## Screenshots 📷
 
-*Add screenshots of your app here to showcase the UI and functionality*
+![Birthday App Screenshot](https://github.com/divyadeepmishra/SwiftUI-Tutorials/blob/main/Birthdays/Images/Screenshot%202025-06-20%20at%2021.55.45.png)
+![Birthday App Screenshot](https://github.com/divyadeepmishra/SwiftUI-Tutorials/blob/main/Birthdays/Images/Screenshot%202025-06-20%20at%2021.55.54.png)
+![Birthday App Screenshot](https://github.com/divyadeepmishra/SwiftUI-Tutorials/blob/main/Birthdays/Images/Screenshot%202025-06-20%20at%2021.56.05.png)
+![Birthday App Screenshot](https://github.com/divyadeepmishra/SwiftUI-Tutorials/blob/main/Birthdays/Images/Screenshot%202025-06-20%20at%2021.57.33.png)
+![Birthday App Screenshot](https://github.com/divyadeepmishra/SwiftUI-Tutorials/blob/main/Birthdays/Images/Screenshot%202025-06-20%20at%2021.57.52.png)
 
 ---
 
