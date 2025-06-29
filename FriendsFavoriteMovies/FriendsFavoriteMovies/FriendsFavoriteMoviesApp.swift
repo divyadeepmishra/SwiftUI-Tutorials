@@ -1,10 +1,3 @@
-//
-//  FriendsFavoriteMoviesApp.swift
-//  FriendsFavoriteMovies
-//
-//  Created by DIVYADEEP MISHRA on 26/06/25.
-//
-
 import SwiftUI
 
 @main
@@ -13,5 +6,6 @@ struct FriendsFavoriteMoviesApp: App {
         WindowGroup {
             ContentView()
         }
+        .modelContainer(for:[Movie.self, Friend.self])
     }
 }

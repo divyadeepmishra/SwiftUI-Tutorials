@@ -1,18 +1,23 @@
-//
-//  FilteredMovieList.swift
-//  FriendsFavoriteMovies
-//
-//  Created by DIVYADEEP MISHRA on 29/06/25.
-//
-
 import SwiftUI
 
+
 struct FilteredMovieList: View {
+    @State private var searchText: String = ""
+    
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        NavigationSplitView {
+            MovieList(titleFilter: searchText)
+                .searchable(text: $searchText)
+        } detail: {
+            Text("Select a movie")
+                .navigationTitle("Movie")
+                .navigationBarTitleDisplayMode(.inline)
+        }
     }
 }
 
+
 #Preview {
     FilteredMovieList()
+        .modelContainer(SampleData.shared.modelContainer)
 }

@@ -1,18 +1,57 @@
-//
-//  MovieDetails.swift
-//  FriendsFavoriteMovies
-//
-//  Created by DIVYADEEP MISHRA on 29/06/25.
-//
-
 import SwiftUI
 
-struct MovieDetails: View {
+struct MovieDetail: View {
+    @Bindable var movie: Movie
+    let isNew : Bool
+    
+    @Environment(\.dismiss) private var dismiss
+    @Environment(\.modelContext) private var context
+    
+    init(movie: Movie, isNew: Bool = false) {
+        self.movie = movie
+        self.isNew = isNew
+    }
+    
+    var sortedFriends: [Friend] {
+        movie.favoritedBy.sorted { first, second in
+            first.name < second.name
+        }
+    }
+    
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        Form {
+            TextField("Movie title", text: $movie.title)
+            DatePicker("Release Date", selection: $movie.releaseDate, displayedComponents: .date)
+            if !movie.favoritedBy.isEmpty {
+                Section("Favorited by") {
+                    ForEach(sortedFriends) { friend in
+                        Text(friend.name)
+                    }
+                }
+            }
+        }
+        .navigationTitle("Movie")
+        .navigationBarTitleDisplayMode(.inline)
+        .toolbar {
+            if isNew{
+                ToolbarItem(placement: .confirmationAction) {
+                    Button("Save") {
+                        dismiss()
+                    }
+                }
+                ToolbarItem(placement: .cancellationAction) {
+                    Button("Cancel") {
+                        context.delete(movie)
+                        dismiss()
+                    }
+                }
+            }
+        }
     }
 }
 
-#Preview {
-    MovieDetails()
+#Preview("New Movie") {
+    NavigationStack {
+        MovieDetail(movie: SampleData.shared.movie, isNew: true)
+    }
 }
