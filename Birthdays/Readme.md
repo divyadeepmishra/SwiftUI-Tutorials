@@ -19,6 +19,8 @@ A SwiftUI application built following Apple's official "Save Data" tutorial from
 
 ---
 
+<center>
+ 
 ## About 🏆
 
 This project is part of my **SwiftUI-Tutorials** repository and is named **Birthdays**. It demonstrates how to build a real-world iOS app with SwiftUI and SwiftData, focusing on tracking and managing friends' birthdays. The app showcases modern development practices, robust data modeling, and a polished user experience.
@@ -128,8 +130,15 @@ SwiftUI-Tutorials/
 
 ## Screenshots 📷
 
-*Add screenshots of your app here to showcase the UI and functionality*
+<p align = "center">
+ 
+<img src="https://raw.githubusercontent.com/divyadeepmishra/SwiftUI-Tutorials/main/Birthdays/Images/Screenshot%202025-06-20%20at%2021.55.45.png" alt="Birthday App Screenshot" width="500" height="600" />
+<img src="https://raw.githubusercontent.com/divyadeepmishra/SwiftUI-Tutorials/main/Birthdays/Images/Screenshot%202025-06-20%20at%2021.55.54.png" alt="Birthday App Screenshot" width="450" height="600" />
+<img src="https://raw.githubusercontent.com/divyadeepmishra/SwiftUI-Tutorials/main/Birthdays/Images/Screenshot%202025-06-20%20at%2021.56.05.png" alt="Birthday App Screenshot" width="450" height="600" />
+<img src="https://raw.githubusercontent.com/divyadeepmishra/SwiftUI-Tutorials/main/Birthdays/Images/Screenshot%202025-06-20%20at%2021.57.33.png" alt="Birthday App Screenshot" width="450" height="600" />
+<img src="https://raw.githubusercontent.com/divyadeepmishra/SwiftUI-Tutorials/main/Birthdays/Images/Screenshot%202025-06-20%20at%2021.57.52.png" alt="Birthday App Screenshot" width="450" height="600" />
 
+</p>
 ---
 
 ## Learning Resources 📖
@@ -213,4 +222,9 @@ This project is for educational purposes, built following Apple's official tutor
 ---
 
 **Happy coding!** 🚀  
-*Built with ❤️ following Apple's Develop in Swift curriculum*
+
+---
+*Built by following Apple's Develop in Swift curriculum*
+
+
+</center>
