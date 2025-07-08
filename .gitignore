@@ -1,1 +1,28 @@
+# Xcode
+*.xcuserstate
+*.xcuserdata/
+
+# macOS system files
 .DS_Store
+
+# Build generated files
+build/
+DerivedData/
+*.o
+*.obj
+
+# Swift Package Manager
+/.build/
+Packages/
+.swiftpm/
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+
+# Other common files to ignore
+*.swp
+*.lock
+
