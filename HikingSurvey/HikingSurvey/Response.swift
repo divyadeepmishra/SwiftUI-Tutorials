@@ -1,4 +1,5 @@
 import Foundation
+import SwiftData
 
 struct Response: Identifiable{
     var id = UUID()

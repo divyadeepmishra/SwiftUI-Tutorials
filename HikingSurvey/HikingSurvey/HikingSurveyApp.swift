@@ -1,10 +1,3 @@
-//
-//  HikingSurveyApp.swift
-//  HikingSurvey
-//
-//  Created by DIVYADEEP MISHRA on 07/07/25.
-//
-
 import SwiftUI
 
 @main
